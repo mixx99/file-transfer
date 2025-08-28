@@ -26,6 +26,7 @@ server.exe 127.0.0.1 5555 temp
 - Configurable packet delay for testing network conditions
 - Safe console output (thread-safe logging)
 - Simple CMake building.
+- Multiple message types for flexible project expansion
 
 ## Tests
 
