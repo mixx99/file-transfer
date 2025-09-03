@@ -21,6 +21,7 @@ server.exe 127.0.0.1 5555 temp
 ## Features
 
 - Reliable file transfer over UDP with TCP-based control channel
+- Data serialization/deserialization.
 - CRC checksum verification for data integrity
 - Automatic packet ordering and duplicate handling
 - Configurable packet delay for testing network conditions
